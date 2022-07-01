@@ -19,3 +19,6 @@ a few useful things that come with the test that it outputs if the H0 is rejecte
 
 ![image](https://user-images.githubusercontent.com/64399795/176802229-13de25df-8a25-4a03-8f60-b47cc8e66d61.png)
 ![image](https://user-images.githubusercontent.com/64399795/176802249-9c064b3d-68e0-4785-a056-252ead6b88d1.png)
+
+2
+![image](https://user-images.githubusercontent.com/64399795/176802450-a6d8e588-da84-4fb4-b68a-7dedfa8eb275.png)
